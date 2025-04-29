@@ -15,17 +15,17 @@
 
 - 🔭 I’m currently working on [TESSOF Project.](https://www.icm-bw.de/forschung/projektuebersicht/detailseite/sdmobi5-tessof)
 
-- 🌱 I’m currently learning **Automated Testing.**
+- 🌱 I’m currently learning **How to test AI Decision-Making systems like a hero.**
 
-- 👯 I’m looking to collaborate on **Autonomous Vehicles.**
+- 👯 I’m looking to collaborate on **Autonomous Systems.**
 
 - 💬 Ask me about **Object Detection, Reinforcement Learning.**
 
-- 📫 How to reach me **haliteris1@gmail.com**
+- 📫 How to reach me **halit.eris@tum.de**
 
-- 📄 Know about my experiences [www.digitalcastle.org](www.digitalcastle.org)
+- 📄 Know about my experiences [www.digitalcastle.org](www.digitalcastle.org/about)
 
-- ⚡ Fun fact **Nobody ever warned me, coding was an one-way ticket.**
+- ⚡ Fun fact **I need somebody to push me to commit the code I have written.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
