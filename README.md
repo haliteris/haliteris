@@ -15,7 +15,7 @@
 
 - 🔭 Hey! I concluded [TESSOF Project.](https://www.icm-bw.de/forschung/projektuebersicht/detailseite/sdmobi5-tessof)
 
-- 🌱 I’m currently learning **How to test AI Decision-Making systems like a hero.**
+- 🌱 I’m currently learning **How to test AI Decision-Making systems like a "Hero".**
 
 - 👯 I’m looking to collaborate on **Autonomous Systems.**
 
