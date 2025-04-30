@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/haliteris" target="blank"><img src="https://img.shields.io/twitter/follow/haliteris?logo=twitter&style=for-the-badge" alt="haliteris" /></a> </p>
 
 
-- 🔭 I’m currently working on [TESSOF Project.](https://www.icm-bw.de/forschung/projektuebersicht/detailseite/sdmobi5-tessof)
+- 🔭 Hey! I concluded [TESSOF Project.](https://www.icm-bw.de/forschung/projektuebersicht/detailseite/sdmobi5-tessof)
 
 - 🌱 I’m currently learning **How to test AI Decision-Making systems like a hero.**
 
