@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **halit.eris@tum.de**
 
-- 📄 Know about my experiences [www.digitalcastle.org](www.digitalcastle.org/about)
+- 📄 Know about my experiences [www.digitalcastle.org](https://www.digitalcastle.org/about)
 
 - ⚡ Fun fact **I need somebody to push me to commit the code I have written.**
 
